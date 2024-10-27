@@ -1,6 +1,6 @@
 ## Blocks
 
-![$(Blocks)](screenshots/screenshot000.png "$(Game Title)")
+![$(Blocks)](screenshots/screenshot000.png "$(Blocks)")
 
 ### Description
 
