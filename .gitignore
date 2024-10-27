@@ -72,4 +72,7 @@ compile_commands.json
 android.*
 
 # CMake
-cmake-build-debug
+cmake-build-*
+
+# MacOS
+.DS_Store
